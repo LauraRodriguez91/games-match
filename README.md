@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/License-MIT-22c55e" alt="MIT License">
 </p>
 
-
+![GameMatch web app](images/screenshot.png)
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
