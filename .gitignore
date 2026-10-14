@@ -1,0 +1,20 @@
+# Kaggle data (too large for GitHub) and generated cache
+data/*
+!data/README.md
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Streamlit (local secrets) and environment variables
+.streamlit/secrets.toml
+.env
